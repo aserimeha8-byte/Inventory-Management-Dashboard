@@ -6,6 +6,28 @@ This project focuses on solving real-world inventory management challenges by bu
 The solution follows the **Ask → Prepare → Process → Analyze → Share → Act** analytics framework to transform raw inventory data into actionable business insights.
 
 ---
+## 📁 Project Structure
+```
+Inventory-management-dashboard/
+│
+├── Analysis
+├── Analysis.xlsx                     # Processed Data 
+├── Prepare.xlsx                      # master data
+│
+├── dashboard
+├── dashboard.xlsx                    # analysed data
+│
+├── raw data
+├── Problem To solve.pdf              # Problem Statement
+├── inventory_dataset.xlsx            # Raw data
+│
+├── Reorders_Dashboard.png
+├── Stock_value_Dashboard.png
+
+│
+└── README.md                         # This file
+```
+
 
 ## 1️⃣ ASK – Business Problem & Objective
 
