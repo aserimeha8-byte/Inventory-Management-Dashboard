@@ -1,4 +1,5 @@
 # Inventory-Management-Dashboard
+<img width="1100" height="586" alt="Screenshot 2026-01-02 155016" src="https://github.com/user-attachments/assets/4025cc0e-89ab-4add-8a32-bc399384fe93" />
 
 ## 📌 Project Overview
 This project focuses on solving real-world inventory management challenges by building an **Excel-based interactive dashboard**.  
