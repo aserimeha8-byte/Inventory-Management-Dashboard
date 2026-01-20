@@ -1,5 +1,5 @@
 # Inventory-Management-Dashboard | Excel, Pivot Table, Power Query, Dashboard making
-<img width="551" height="286" alt="image" src="https://github.com/user-attachments/assets/fe848200-f14b-4bcb-b2c3-95c81ebd36a5" />
+<img width="1100" height="586" alt="image" src="https://github.com/user-attachments/assets/fe848200-f14b-4bcb-b2c3-95c81ebd36a5" />
 
 ## 📌 Project Overview
 This project focuses on solving real-world inventory management challenges by building an **Excel-based interactive dashboard**.  
