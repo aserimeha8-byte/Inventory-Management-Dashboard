@@ -1,5 +1,5 @@
-# Inventory-Management-Dashboard
-<img width="1100" height="586" alt="Screenshot 2026-01-02 155016" src="https://github.com/user-attachments/assets/4025cc0e-89ab-4add-8a32-bc399384fe93" />
+# Inventory-Management-Dashboard | Excel, Pivot Table, Power Query, Dashboard making
+<img width="551" height="286" alt="image" src="https://github.com/user-attachments/assets/fe848200-f14b-4bcb-b2c3-95c81ebd36a5" />
 
 ## 📌 Project Overview
 This project focuses on solving real-world inventory management challenges by building an **Excel-based interactive dashboard**.  
@@ -97,7 +97,11 @@ The dataset was reviewed to understand business meaning, data types, and relatio
 ---
 
 ## 5️⃣ SHARE – Dashboard & Visualization
-
+### 💡 Key Results
+- Total Stock Price: $187418229.17
+- Total Products: 3000
+- Total Category: 5
+- Current Stock: 752421
 ### 📊 Dashboard Features
 - KPI cards for quick inventory health check
 - Category and warehouse slicers
